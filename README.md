@@ -15,5 +15,5 @@
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkerarcher&theme=graywhite&show_icons=true&include_all_commits=true&hide_border=true" alt="Ayo's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkerarcher&theme=graywhite&langs_count=8&layout=compact&hide_border=true" alt="Ayo's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkerarcher&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Ayo's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkerarcher&theme=github_dark&langs_count=8&layout=compact&hide_border=true" alt="Ayo's GitHub stats" /> |
 | ------------- | ------------- |
